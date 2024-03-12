@@ -1,7 +1,7 @@
 Kubernetes Kickstarter
 
 Architecture Guides
-https://github.com/LondheShubham153/kubestarter/blob/main/kubernetes_architecture.md
+
 
 Kubernetes Architecture Guide
 Examples with Interview Questions
