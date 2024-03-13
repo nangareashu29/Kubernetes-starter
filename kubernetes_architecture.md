@@ -6,12 +6,12 @@ This document explains the key components that make up the architecture of a Kub
 # Table of Contents
 
 
-[Control Plane (Master Node Components)](https://github.com/nangareashu29/Kubernetes-starter/blob/main/README.md#:~:text=Other%20Components-,Control%20Plane%20(Master%20Node%20Components),-API%20Server)
+[Control Plane (Master Node Components)](https://github.com/nangareashu29/Kubernetes-starter/blob/main/kubernetes_architecture.md#:~:text=Other%20Components-,Control%20Plane%20(Master%20Node%20Components),-API%20Server)
 
-[Worker Node Components](https://github.com/nangareashu29/Kubernetes-starter/blob/main/README.md#:~:text=and%20persistent%20storage.-,Worker%20Node%20Components,-kubelet)
+[Worker Node Components](https://github.com/nangareashu29/Kubernetes-starter/blob/main/kubernetes_architecture.md#:~:text=and%20persistent%20storage.-,Worker%20Node%20Components,-kubelet)
 
 
-[Other Components](https://github.com/nangareashu29/Kubernetes-starter/blob/main/README.md#:~:text=also%20be%20used.-,Other%20Components,-Pod)
+[Other Components](https://github.com/nangareashu29/Kubernetes-starter/blob/main/kubernetes_architecture.md#:~:text=also%20be%20used.-,Other%20Components,-Pod)
 
 
 
