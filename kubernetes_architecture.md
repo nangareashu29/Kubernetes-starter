@@ -13,6 +13,9 @@ This document explains the key components that make up the architecture of a Kub
 
 [Other Components](https://github.com/nangareashu29/Kubernetes-starter/blob/main/kubernetes_architecture.md#:~:text=also%20be%20used.-,Other%20Components,-Pod)
 
+##
+
+![image](https://github.com/nangareashu29/Kubernetes-starter/assets/118275259/e1c8299d-0bb3-4c07-a444-3a323a546d24)
 
 
 
