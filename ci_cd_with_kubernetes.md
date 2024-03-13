@@ -35,6 +35,9 @@ Let us understand this through a simple workflow of a CI/CD pipeline for a conta
 
 9. Production Deployment: Once the testing in the staging environment passes successfully, the new version of the application can be deployed to the production environment using the same deployment YAML script that guided the staging deployment. This ensures consistent setup in the production environment and the transition from staging to production is seamless.
 
+    ![image](https://github.com/nangareashu29/Kubernetes-starter/assets/118275259/e9859b4b-37b2-4f57-99ab-4f97303bdf53)
+
+
 10. Conclusion
 By automating the above-mentioned steps and using Kubernetes, the CI/CD process becomes more efficient, reliable, and repeatable. It helps development teams release new features faster while maintaining stability! Happy Learning!
 
