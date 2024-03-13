@@ -5,6 +5,8 @@ This document explains the key components that make up the architecture of a Kub
 
 # Table of Contents
 
+![Uploading image.png…]()
+
 # Control Plane (Master Node Components)
 
 **API Server** 
