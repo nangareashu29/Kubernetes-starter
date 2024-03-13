@@ -5,7 +5,8 @@ This document explains the key components that make up the architecture of a Kub
 
 # Table of Contents
 
-![Uploading image.png…]()
+![image](https://github.com/nangareashu29/Kubernetes-starter/assets/118275259/06a2908e-1666-449d-a599-ff59c5ecdbd2)
+
 
 # Control Plane (Master Node Components)
 
